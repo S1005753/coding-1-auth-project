@@ -10,7 +10,7 @@ users = {
 base_style = """
 <style>
 body {
-    font-family: Arial, sans-serif;
+    font-family: Comic Sans MS, sans-serif;
     background: #010101;
     display: flex;
     justify-content: center;
@@ -20,7 +20,7 @@ body {
 .card {
     background: green;
     padding: 100px;
-    border-radius: 10px;
+    border-radius: 200px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
     width: 400px;
     text-align: center;
@@ -85,9 +85,9 @@ register_page = base_style + """
 
 secret_page = base_style + """
 <div class="card">
-<h2>🎉 Secret Room</h2>
+<h2>Ribbit!</h2>
 <h3>Welcome, {{ username }}!</h3>
-<p>You got into the secret room!</p>
+<p>Ready to start hoppin'?!</p>
 <a href="/logout"><button>Logout</button></a>
 </div>
 """

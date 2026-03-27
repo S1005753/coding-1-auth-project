@@ -11,7 +11,7 @@ base_style = """
 <style>
 body {
     font-family: Comic Sans MS, sans-serif;
-    background: #010101;
+    background: #085e72;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -42,7 +42,7 @@ button {
     cursor: pointer;
 }
 button:hover {
-    background: #0d98ba;
+    background: #026440;
 }
 a {
     display: block;

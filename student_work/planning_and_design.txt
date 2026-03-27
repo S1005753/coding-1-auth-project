@@ -4,32 +4,32 @@ APP PLANNING & DESIGN
 
 1. PROJECT NAME & THEME
 -------------------------
-- What is your app called, and what type of app is it?  
-- What style or vibe do you want users to experience?
-- What about your app will require a log-in structure?
+- What is your app called, and what type of app is it? Hoppin. Fitness tracker.
+- What style or vibe do you want users to experience? Friendly, interactive. Comforting
+- What about your app will require a log-in structure? Becoming a member for the app.
 
 2. CORE FUNCTIONALITY
 -------------------------
-- What are the essential features your app must have?  
-- What optional features could make your app more interactive or personalized?
+- What are the essential features your app must have?  A login. A welcome screen. Text showing new diets or exercises  
+- What optional features could make your app more interactive or personalized? Being able to add your personal goals which will give specific ways to reach them.
 
 3. SECRET OR PERSONALIZED CONTENT
 
 -------------------------
-- What content will users see after logging in?  
-- Will this content change depending on who is using the app (admin, user, special user?)
+- What content will users see after logging in?  Welcome page, text containing a catchphrase and their name. exercises. 
+- Will this content change depending on who is using the app (admin, user, special user?) Technically, depending the goals the person gives.
 
 4. USER EXPERIENCE (UX) DESIGN
 -------------------------
-- How should your app look and feel?
-- How will users navigate between pages?
+- How should your app look and feel? Green. Nature with trees and darker colors.
+- How will users navigate between pages? Tabs in the top of the screen that go to where the user wants to go.
 
 5. SECURITY FEATURES
 -------------------------
-- What password and authentication rules will you enforce?  
-- How will you protect secret pages from unauthorized access?
+- What password and authentication rules will you enforce? Correct username or password. Maybe make it so they need an email address. 
+- How will you protect secret pages from unauthorized access? If the password, username, or possible email address is not correct. They will not be allowed to log in into anything.
 
 6. OPTIONAL CREATIVE ENHANCEMENTS
 -------------------------
-- What customization or fun features could users enjoy?
-- Are there interactive elements, like games, quizzes, or badges, you could include?
+- What customization or fun features could users enjoy? Colorful. Potential interactive mascot.
+- Are there interactive elements, like games, quizzes, or badges, you could include? No, nothing.

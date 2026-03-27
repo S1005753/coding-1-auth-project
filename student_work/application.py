@@ -42,7 +42,7 @@ button {
     cursor: pointer;
 }
 button:hover {
-    background: #45a049;
+    background: #0d98ba;
 }
 a {
     display: block;

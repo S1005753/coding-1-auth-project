@@ -11,18 +11,18 @@ base_style = """
 <style>
 body {
     font-family: Arial, sans-serif;
-    background: #f4f6f8;
+    background: #010101;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
 }
 .card {
-    background: white;
-    padding: 25px;
+    background: green;
+    padding: 100px;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-    width: 300px;
+    width: 400px;
     text-align: center;
 }
 input {
@@ -36,8 +36,8 @@ button {
     padding: 10px;
     width: 60%;
     background: #4CAF50;
-    color: white;
-    border: none;
+    color: black;
+    border: 2px solid #4CAF50;
     border-radius: 5px;
     cursor: pointer;
 }

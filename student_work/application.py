@@ -47,8 +47,8 @@ button:hover {
 a {
     display: block;
     margin-top: 10px;
-    color: #333;
-    text-decoration: none;
+    color: #000000;
+    text-decoration: underline;
 }
 .error {
     color: red;
@@ -59,7 +59,7 @@ a {
 
 login_page = base_style + """
 <div class="card">
-<h2>Login</h2>
+<h1>Login</h1>
 <form method="POST">
   <input name="username" placeholder="Username"><br>
   <input name="password" type="password" placeholder="Password"><br>
@@ -72,7 +72,7 @@ login_page = base_style + """
 
 register_page = base_style + """
 <div class="card">
-<h2>Register</h2>
+<h1>Register</h1>
 <form method="POST">
   <input name="username" placeholder="Username"><br>
   <input name="password" type="password" placeholder="Password"><br>
@@ -85,8 +85,8 @@ register_page = base_style + """
 
 secret_page = base_style + """
 <div class="card">
-<h2>Ribbit!</h2>
-<h3>Welcome, {{ username }}!</h3>
+<h1>Ribbit!</h1>
+<h2>Welcome, {{ username }}!</h2>
 <p>Ready to start hoppin'?!</p>
 <a href="/logout"><button>Logout</button></a>
 </div>
